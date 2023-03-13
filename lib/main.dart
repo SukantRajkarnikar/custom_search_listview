@@ -38,6 +38,7 @@ class _AppBodyState extends State<AppBody> {
       padding: const EdgeInsets.all(16),
       child: Column(
         children: [
+          Container(),
           Text("Hello")
         ],
       ),
